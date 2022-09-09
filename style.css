@@ -1,0 +1,43 @@
+.case_study{
+    background-color: lightblue;
+    color: black;
+    box-shadow: 1px 1px 38px gray;
+    margin: 40px;
+    border-radius: 20px;
+    width: 92%;
+    padding: 20px;
+}
+
+.header{
+    font-family: 'Combo', cursive;
+    font-size: 30px;
+}
+
+.footer{
+    font-family: 'Combo', cursive;
+    background-color: gray;
+    color: white;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    font-size: 18px;
+}
+
+img {
+    margin-top: 10px;
+    border-radius: 12px;
+}
+
+.conclusion{
+    background-color: lightpink;
+    color: black;
+    font-family: 'Combo', cursive;
+    font-size: 18px;
+    width: 100%;
+    padding: 25px;
+   
+}
+
+span{
+    color: purple;
+}
